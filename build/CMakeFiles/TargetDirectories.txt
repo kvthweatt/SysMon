@@ -1,0 +1,9 @@
+/home/karac/LinuxTaskMan/build/CMakeFiles/system_monitor.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/edit_cache.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/rebuild_cache.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/list_install_components.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/install.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/install/local.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/install/strip.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/system_monitor_autogen_timestamp_deps.dir
+/home/karac/LinuxTaskMan/build/CMakeFiles/system_monitor_autogen.dir
